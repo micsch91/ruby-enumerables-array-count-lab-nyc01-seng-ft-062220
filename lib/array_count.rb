@@ -4,6 +4,7 @@ def count_strings(array)
     if array = ""
 
   end
+  array
 end
 
 def count_empty_strings(array)
