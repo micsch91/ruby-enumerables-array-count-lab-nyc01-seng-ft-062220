@@ -3,6 +3,7 @@ def count_strings(array)
 array.count do |strings|
   if strings.type = ""
     return
+  else false
   end
 
 def count_empty_strings(array)
